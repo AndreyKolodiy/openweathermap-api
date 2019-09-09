@@ -1,1 +1,19 @@
-Test task for receiving data from openweathermap.org and checking correctness of work using Selenium
+**Задание:**
+
+прекондишины: создать учётные записи на openweathermap.org и на gmail.com 
+
+1 часть API: получаем прогноз погоды на неделю вперёд для любимого города с помощью openweathermap API. Приводим его в юзер-френдли вид: Дата/День/Прогноз:День/Ночь
+
+2 часть UI: с помощью Selenium/WebDriver открываем chrome браузер, авторизируемся и пишем самому себе письмо. Тема: Погода на неделю для НазваниеЛюбимогоГорода: текущее время(вид HH/MM/SS). Тело: прогноз что достали с openweathermap.
+
+Проверкой должно быть: перейти в папку Входящие, открыть свое письмо найдя его по теме. Проверить на равенство прогноз из письма и тот что получили с openweathermap.
+
+**Используемые данные:**
+
+_**User_name GMail**_:  weathertestapi@gmail.com
+
+_**Password:**_ z9379992
+
+_**API Key:**_ 5fa7571c03889c663963c41593c4124d
+
+_**URL:**_ https://mail.google.com/mail/u/0/#inbox
