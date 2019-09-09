@@ -1,0 +1,1 @@
+Test task for receiving data from openweathermap.org and checking correctness of work using Selenium
