@@ -1,3 +1,15 @@
+
+_**User_name GMail**_:  weathertestapi@gmail.com
+
+_**Password:**_ z9379992
+
+_**API Key:**_ 5fa7571c03889c663963c41593c4124d
+
+_**URL:**_ https://mail.google.com/mail/u/0/#inbox
+
+___________________________________________________
+
+
 **Задание:**
 
 прекондишины: создать учётные записи на openweathermap.org и на gmail.com 
@@ -8,12 +20,3 @@
 
 Проверкой должно быть: перейти в папку Входящие, открыть свое письмо найдя его по теме. Проверить на равенство прогноз из письма и тот что получили с openweathermap.
 
-**Используемые данные:**
-
-_**User_name GMail**_:  weathertestapi@gmail.com
-
-_**Password:**_ z9379992
-
-_**API Key:**_ 5fa7571c03889c663963c41593c4124d
-
-_**URL:**_ https://mail.google.com/mail/u/0/#inbox
